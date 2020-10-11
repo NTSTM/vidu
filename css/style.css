@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+header {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 100%;
+}
+.header__nav {
+  padding: 0 !important;
+}
+.img__logo {
+  height: 80px;
+  width: auto;
+}
+.row {
+  margin: 0;
+  padding: 0;
+}
+.nav__navbar {
+  display: inline-block;
+}
+.nav > li > a {
+  color: black;
+}
+.nav-link {
+  padding: 0 1.25rem 0 0 !important;
+}
+.img__left {
+  position: absolute;
+  height: 140px;
+}
+.leaf {
+  width: 12.5%;
+  height: 533px;
+  margin: auto;
+}
+.spa {
+  width: 43.75%;
+  height: auto;
+}
+.banner__container {
+  margin: 290 150px 0px;
+}
+.banner__h4 {
+  color: red;
+  font-size: 15px;
+}
+.banner__h1 {
+  font-size: 60px;
+  margin-bottom: 0;
+}
+.banner__h1--top {
+  padding-top: 40px;
+}
+.banner__p {
+  padding-top: 30px;
+  margin-bottom: 0;
+  font-size: 15px;
+}
+.header__button {
+  height: 50px;
+  margin-top: 57px;
+}
+.button__left {
+  height: 100%;
+  width: 170px;
+  background-color: #ff817e;
+  border: none;
+}
+.watch {
+  height: 44px;
+  width: 200px;
+  margin-left: 55px;
+}
+.play {
+  width: 44px;
+  height: 100%;
+  border-radius: 50%;
+  background-color: #fcf5ee;
+  border: none;
+}
+.play > i {
+  color: #ff817e;
+}
+.play__p {
+  margin: auto;
+  margin-left: 15px;
+}
+.infor__img--left {
+  width: 24%;
+}
+.infor__img--left > img {
+  width: 130px;
+  height: auto;
+  float: right;
+}
+.china-rose {
+  width: auto;
+  height: auto;
+}
+
+.infor__mid {
+  width: 65%;
+  margin-top: 130px;
+}
+.infor__mid > img {
+  width: auto;
+}
